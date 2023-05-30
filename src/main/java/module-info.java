@@ -7,4 +7,5 @@ module guru.langer.phonebookjavafxv2 {
     exports guru.langer.phonebookjavafxv2;
     exports guru.langer.phonebookjavafxv2.controller;
     opens guru.langer.phonebookjavafxv2.controller to javafx.fxml;
+    opens guru.langer.phonebookjavafxv2.model to javafx.base;
 }
