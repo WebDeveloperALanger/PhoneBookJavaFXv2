@@ -1,9 +1,9 @@
-package guru.langer.phonebookjavafxv2;
+package guru.langer.phonebookjavafxv2.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class PhoneBookController {
     @FXML
     private Label welcomeText;
 
